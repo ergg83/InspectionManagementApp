@@ -3,8 +3,8 @@
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-    "cdsurl": "https://org00da04f3.crm.dynamics.com",
-    "cdsclientid": "85842617-6ac6-468d-9a1c-d7c34b4fb7f9",
-    "cdsclientsecret": "2md7Q~jDyXDYPe1.eZ75KlrqKnST5_gKvezB6"
+    "cdsurl": "",
+    "cdsclientid": "",
+    "cdsclientsecret": ""
   }
 }
